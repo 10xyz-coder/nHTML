@@ -23,7 +23,7 @@ Add the JS link in your project files
   <title>My Totally Awesome Project</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
   
-  <script src="the-link-to-the-js"></script>
+  <script src="the-link-to-the-js"></script> <!-- Add this to your HTML -->
   
 </head>
 
