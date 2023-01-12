@@ -7,8 +7,18 @@
 <p align="center">
 Neo HTMl, or nHTML for short, is the better HTML, adding alot more fun, useful tags.
 </p>
-<h2 align="center"> 📗 Docs 📗 </h1>
-<h3 align="center"> 🚀 Adding to your HTML Project 🚀 </h1>
+<!--toc -->
+<details>
+  <summary>Table of Contents</summary>
+  
+* [Docs](#docs)
+  * [Adding to your HTML project](#1)
+  * [New Tags](#2)
+* [Errors](#error)
+</details>
+<!--toc -->
+<h2 align="center" name="docs"> 📗 Docs 📗 </h1>
+<h3 align="center" name="1"> 🚀 Adding to your HTML Project 🚀 </h1>
 <p align="center">
 Add the JS link in your project files
 </p>
@@ -33,7 +43,7 @@ Add the JS link in your project files
 <script src="script.js"></script>
 </html>
 ```
-<h3 align="center"> 🎫 New Tags 🎫 </h3>
+<h3 align="center" name="2"> 🎫 New Tags 🎫 </h3>
 <h4 align="center"> neo-toggle </h4>
 <p align="center">
 Neo toggle is an element which has a special property; everytime it is clicked, it will toggle its 'on' property.
@@ -63,7 +73,7 @@ The Element also has a disabled property, making it grey out & uninteractable
 ```
 
 
-<h2 align="center"> ❓❌ Errors ❌❓ </h1>
+<h2 align="center" name="error"> ❓❌ Errors ❌❓ </h1>
 <p align="center">
 Here is a list of error codes and what they mean
 </p>
