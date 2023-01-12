@@ -61,3 +61,17 @@ The Element also has a disabled property, making it grey out & uninteractable
 ```html
 <neo-toggle disabled> Type Something here </neo-toggle> <!-- Disabled Toggle -->
 ```
+
+
+<h2 align="center"> ❓❌ Errors ❌❓ </h1>
+<p align="center">
+Here is a list of error codes and what they mean
+</p>
+<div align="center">
+
+| Error Name         | Explanation                                                               | Code |
+| ------------------ | ------------------------------------------------------------------------- | ---- |
+| Invalid_Data_Type  | You have used the wrong type of data<br>For ex. String instead of Integer | 1    |
+| Data_Out_Of_Bounds | Your data is not within the limits<br>For ex. max = 20, but value = 21    | 2    |
+
+</div>
