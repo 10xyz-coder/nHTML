@@ -65,7 +65,7 @@ else {
  }
 ```
 <p align="center">
-The Element also has a <kbd>disabled property</kbd>, making it grey out & uninteractable
+The Element also has a <kbd>disabled</kbd> property, making it grey out & uninteractable
 </p>
 
 ```html
