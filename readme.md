@@ -46,14 +46,14 @@ Add the JS link in your project files
 <h3 align="center" name="2"> 🎫 New Tags 🎫 </h3>
 <h4 align="center"> neo-toggle </h4>
 <p align="center">
-Neo toggle is an element which has a special property; everytime it is clicked, it will toggle its 'on' property.
+Neo toggle is an element which has a special property; everytime it is clicked, it will toggle its <kbd>on</kbd> property.
 </p>
 
 ```html
 <neo-toggle> Type Something here </neo-toggle>
 ```
 <p align="center">
-You can use the 'hasAttrbute()' function of javascript to check if it is on or off
+You can use the <kbd>hasAttrbute()</kbd> function of javascript to check if it is on or off
 </p>
 
 ```javascript
@@ -65,7 +65,7 @@ else {
  }
 ```
 <p align="center">
-The Element also has a disabled property, making it grey out & uninteractable
+The Element also has a <kbd>disabled property</kbd>, making it grey out & uninteractable
 </p>
 
 ```html
@@ -81,7 +81,7 @@ Here is a list of error codes and what they mean
 
 | Error Name         | Explanation                                                               | Code |
 | ------------------ | ------------------------------------------------------------------------- | ---- |
-| Invalid_Data_Type  | You have used the wrong type of data<br>For ex. String instead of Integer | 1    |
-| Data_Out_Of_Bounds | Your data is not within the limits<br>For ex. max = 20, but value = 21    | 2    |
+| <kbd>Invalid_Data_Type</kbd>  | You have used the wrong type of data<br>For ex. String instead of Integer | 1    |
+| <kbd>Data_Out_Of_Bounds</kbd> | Your data is not within the limits<br>For ex. max = 20, but value = 21    | 2    |
 
 </div>
