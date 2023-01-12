@@ -33,3 +33,31 @@ Add the JS link in your project files
 <script src="script.js"></script>
 </html>
 ```
+<h3 align="center"> 🎫 New Tags 🎫 </h3>
+<h4 align="center"> neo-toggle </h4>
+<p align="center">
+Neo toggle is an element which has a special property; everytime it is clicked, it will toggle its 'on' property.
+</p>
+
+```html
+<neo-toggle> Type Something here </neo-toggle>
+```
+<p align="center">
+You can use the 'hasAttrbute()' function of javascript to check if it is on or off
+</p>
+
+```javascript
+if (document.getElementById('my-toggle').hasAttribute('on')) {
+  // On
+}
+else {
+  // Off
+ }
+```
+<p align="center">
+The Element also has a disabled property, making it grey out & uninteractable
+</p>
+
+```html
+<neo-toggle disabled> Type Something here </neo-toggle> <!-- Disabled Toggle -->
+```
